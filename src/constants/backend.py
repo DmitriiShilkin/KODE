@@ -1,0 +1,2 @@
+BACKEND_ENTRYPOINT = "kode"
+FRONTEND_URL = ""
